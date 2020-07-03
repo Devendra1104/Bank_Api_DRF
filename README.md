@@ -5,7 +5,9 @@ We can aslo get the list of branch in particular city using the city and banknam
 
 Examples:
 1. sample endpoint : GET http://devendra1049.pythonanywhere.com/bank/?ifsc=ABHY0065004
+
 sample response:
+ 
  [{
         "id": 51,
         "ifsc": "ABHY0065004",
@@ -21,6 +23,7 @@ sample response:
   2. sample endoint: GET http://devendra1049.pythonanywhere.com/bank/?city=MUMBAI&bank_name=ABHYUDAYA%20COOPERATIVE%20BANK%20LIMITED
   
   sample response: 
+  
   [{
         "id": 48,
         "ifsc": "ABHY0065001",
