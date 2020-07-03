@@ -19,6 +19,7 @@ sample response:
     }]
     
   2. sample endoint: GET http://devendra1049.pythonanywhere.com/bank/?city=MUMBAI&bank_name=ABHYUDAYA%20COOPERATIVE%20BANK%20LIMITED
+  
   sample response: 
   [{
         "id": 48,
